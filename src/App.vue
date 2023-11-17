@@ -1,3 +1,4 @@
+//learning about slots - they are used to decrease the use of props and make the working of components more dynamic
 <template>
   <h1>{{ title }}</h1>
   
